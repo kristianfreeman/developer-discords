@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="max-w-4xl mx-auto mt-16">
+      <h1 className="text-4xl font-bold mb-4">
+        Developer Discords
+      </h1>
+
+      <h2 className="text-2xl">A directory of great developer Discord communities</h2>
+
+      <div className='mt-8'>
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shrotg81mSSIjkwlH?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style={{ background: "transparent", border: "1px solid #ccc" }}></iframe>
+      </div>
+
+      <div className="mt-8">
+        <a className="underline text-blue-800 hover:text-blue-600" href="https://airtable.com/shrnzSPjSLOVipQRY">Submit a new Developer Discord</a>
+      </div>
     </div>
   );
 }
