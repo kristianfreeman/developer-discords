@@ -11,8 +11,12 @@ function App() {
         <iframe class="airtable-embed" src="https://airtable.com/embed/shrotg81mSSIjkwlH?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style={{ background: "transparent", border: "1px solid #ccc" }}></iframe>
       </div>
 
-      <div className="mt-8">
-        <a className="underline text-blue-800 hover:text-blue-600" href="https://airtable.com/shrnzSPjSLOVipQRY">Submit a new Developer Discord</a>
+      <div className="mt-6">
+        <a className="underline text-blue-800 hover:text-blue-600" href="https://airtable.com/shrnzSPjSLOVipQRY">Submit a new Developer Discord →</a>
+      </div>
+
+      <div className="mt-4">
+        <small>Built by <a className="underline text-blue-800 hover:text-blue-600" href="https://twitter.com/signalnerve">@signalnerve</a>. <a className="underline text-blue-800 hover:text-blue-600" href="https://github.com/signalnerve/developer-discords">Check out the source on GitHub!</a></small>
       </div>
     </div>
   );
