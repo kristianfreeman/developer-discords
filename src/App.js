@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div className="max-w-4xl mx-auto px-4 md:mt-16">
+    <div className="max-w-4xl mx-auto px-4 mt-4 md:mt-16">
       <h1 className="text-4xl font-bold mb-4">
         Developer Discords
       </h1>
