@@ -16,7 +16,7 @@ function App() {
       </div>
 
       <div className="mt-4">
-        <small>Built by <a className="underline text-blue-800 hover:text-blue-600" href="https://twitter.com/signalnerve">@signalnerve</a>. <a className="underline text-blue-800 hover:text-blue-600" href="https://github.com/signalnerve/developer-discords">Check out the source on GitHub!</a></small>
+        <small>Built by <a className="underline text-blue-800 hover:text-blue-600" href="https://twitter.com/signalnerve">@signalnerve</a>. <a className="underline text-blue-800 hover:text-blue-600" href="https://github.com/signalnerve/developer-discords">Check out the source on GitHub.</a></small>
       </div>
     </div>
   );
