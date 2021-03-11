@@ -12,7 +12,7 @@ function App() {
       </div>
 
       <div className="mt-6">
-        <a className="underline text-blue-800 hover:text-blue-600" href="https://airtable.com/shrnzSPjSLOVipQRY">Submit a new Developer Discord →</a>
+        <a className="underline text-blue-800 hover:text-blue-600" href="https://airtable.com/shrnzSPjSLOVipQRY">Submit a new Discord server →</a>
       </div>
 
       <div className="mt-4">
